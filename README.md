@@ -5,9 +5,9 @@ This repository contains a series of interactive dashboards developed to analyze
 
 ## Project Structure
 
-- **/data**: This folder holds the datasets used in the dashboard visualizations. Data has been cleaned and preprocessed for accurate results.
-- **/dashboards**: Here you can find the actual dashboard files ready to be viewed in [Power BI, Tableau, etc.].
-- **/images**: Screenshots of each dashboard for a quick overview without needing to open the dashboard software.
+- **Data**: This folder holds the datasets used in the dashboard visualizations. Data has been cleaned and preprocessed for accurate results.
+- **Dashboards**: Here you can find the actual dashboard files ready to be viewed in [Power BI, Tableau, etc.].
+- **Images**: Screenshots of each dashboard for a quick overview without needing to open the dashboard software.
 
 ## Dashboard Insights
  **Overall Company Performance**:

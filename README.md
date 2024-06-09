@@ -10,20 +10,21 @@ This repository contains a series of interactive dashboards developed to analyze
 - **/images**: Screenshots of each dashboard for a quick overview without needing to open the dashboard software.
 
 ## Dashboard Insights
-- **/Overall Company Performance**:
+- **Overall Company Performance**:
 - This dashboard presents a broad view of the company's performance with metrics like total revenue, profit, order volume, and return rate. It also includes revenue trends with expectations and detailed categorization of orders by product type.
 - The visual trend lines and data on most ordered and most returned product types provide insights into inventory and return management, helping in optimizing the product mix and reducing losses from returns.
-  ![Dashboard Screenshot](Images/dashboard-screenshot.png)
+  
+  ![images](Images/Overall Company Performance.png)
 
-- **/Customer Engagement and Segmentation**:
+- **Customer Engagement and Segmentation**:
 - This dashboard shows key statistics about the customer base, such as total unique customers and revenue per customer. It includes detailed lists and pie charts categorizing customers by income level and occupation, which are crucial for targeted marketing and understanding customer demographics.
 - A notable insight here is the list of top customers by revenue and the highlight of top orders, providing a clear view of high-value clients.
 
-- **/Product Performance Details**:
+- **Product Performance Details**:
 - This dashboard provides detailed metrics on a specific product, the "Water Bottle - 30 oz." It includes data such as monthly orders compared to targets, monthly revenue vs. targets, and a timeline showing profit trends.
 - This dashboard reveals a consistent trend where the orders and revenue fluctuate but generally stay close to target figures, suggesting effective sales forecasting and product demand management.
   
-- **/Global Sales Distribution**:
+- **Global Sales Distribution**:
 - This dashboard highlights the distribution of sales across different regions with a focus on North America, Europe, and Australia. The size of the bubbles likely represents the volume or value of sales, indicating that the United States and France have significant sales activity compared to other regions.
 - This geographical distribution can help in tailoring marketing strategies specific to high-sales regions and potentially identifying under-served markets for expansion.
 

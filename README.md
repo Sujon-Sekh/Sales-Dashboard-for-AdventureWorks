@@ -13,7 +13,8 @@ This repository contains a series of interactive dashboards developed to analyze
 - **Overall Company Performance**:
 - This dashboard presents a broad view of the company's performance with metrics like total revenue, profit, order volume, and return rate. It also includes revenue trends with expectations and detailed categorization of orders by product type.
 - The visual trend lines and data on most ordered and most returned product types provide insights into inventory and return management, helping in optimizing the product mix and reducing losses from returns.
-  ![Company Performance](Images/Overall Company Performance.png)
+- 
+  ![images](Images/Overall-Company-Performance.png)
 
 - **Customer Engagement and Segmentation**:
 - This dashboard shows key statistics about the customer base, such as total unique customers and revenue per customer. It includes detailed lists and pie charts categorizing customers by income level and occupation, which are crucial for targeted marketing and understanding customer demographics.
